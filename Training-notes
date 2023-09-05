@@ -6,8 +6,26 @@ platform independent
 portable
 multi threading
 
+Date : 04:09:2023
+
+nested class - class inside a class is called nested class.
+
+whatever access modifier used id depends on parent access modifier.
+
+Constructor - if you have a constructor so we need to create the default constuctor
+
+need to know constructor chaining and this keyword.
+
+this - this keyword is 
+
+shallow copy and deep copy
+
+construce overloading 
+
+parameter contructor
 
 
+Date : 05:09:2023
 
 
 
