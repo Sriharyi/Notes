@@ -29,6 +29,17 @@ Date : 05:09:2023
 
 Inheritance - so just create a class name Shape have a child class rectangle and circle.
 
+Final method cannot be overridden similarly if it is a final class we cannot inherit or import on it
+
+In interface we only have method declearation and final data members 
+
+compiler by default final datamember in interface
+
+default method and static method in interface : default method is introduced in java8 if it a static method we cannot override it.
+
+calculator as Interface develop a simple calculator.
+ 
+
 
 
 

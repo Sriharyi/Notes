@@ -6,5 +6,7 @@ class Inheritance
         Circle c1 = new Circle(5f);
         r1.areaofRectangle();
         c1.areaofCircle();
+       System.out.println(r1.getName());
+       System.out.println(c1.getName());
     }
 }
