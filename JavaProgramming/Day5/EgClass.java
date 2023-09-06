@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class EgClass{
     public static void main(String... args)
     {
-
         Integer arr[] = new Integer[100];
         for(int i=0;i<100;i++)
         {
