@@ -38,8 +38,16 @@ compiler by default final datamember in interface
 default method and static method in interface : default method is introduced in java8 if it a static method we cannot override it.
 
 calculator as Interface develop a simple calculator.
- 
 
+Nested Inteface 
+
+Interface have nested class 
+ 
+ 
+Date : 06:09:2023
+
+today we are going to see error and Exception
+Exception : checked and Unchecked Exception
 
 
 
