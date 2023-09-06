@@ -49,6 +49,18 @@ Date : 06:09:2023
 today we are going to see error and Exception
 Exception : checked and Unchecked Exception
 
+Exception is common across all over the project so if we need to restriction ony use conditional statement
+
+why do we customise our exception?
+help to where my Exception occur
+
+Error cannot be caught
+
+error is also Unchecked Exception but it cannot be handled by java
+
+Assignment : custome exception and reproduce an error
+
+
 
 
 
