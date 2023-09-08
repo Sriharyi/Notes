@@ -60,6 +60,10 @@ error is also Unchecked Exception but it cannot be handled by java
 
 Assignment : custome exception and reproduce an error
 
+Date : 07:09:2023
+
+
+only innerclass will be static
 
 
 
